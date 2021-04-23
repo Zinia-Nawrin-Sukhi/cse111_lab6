@@ -1,0 +1,2 @@
+13 Mar 2019 5:19:30 GMT: Log 'EclipseCompiler.txt' opened: 13 Mar 2019 5:19:30 GMT with name E:\cse111\lab code\LAB-6,ZINIA NAWRIN SUKHI,ID-18301193\EclipseCompiler.txt
+1 Apr 2019 4:40:39 GMT: Log 'EclipseCompiler.txt' opened: 1 Apr 2019 4:40:39 GMT with name E:\cse111\lab code\LAB-6,ZINIA NAWRIN SUKHI,ID-18301193\EclipseCompiler.txt
